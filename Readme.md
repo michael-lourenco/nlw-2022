@@ -10,3 +10,6 @@ Abaixo estão as ações que realizei independente do NLW.
 
 ## Git Flow
 Para  desenvolver este projeto, utilizei GitFlow  como fluxo de trabalho do Git.
+
+
+Obs: decidi não fazer o stage 4, pois meu foco no momento é a stack de web e api javascript.
